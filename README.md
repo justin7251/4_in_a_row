@@ -6,6 +6,10 @@ This is a board game built by Javascript. The logic of this game is similar to T
 Click to place an O or X in a square.  It Start with "O". The player who succeeds in placing four of their marks in a horizontal, vertical, or diagonal row is the winner.
 
 
+<img src="public/images/start.PNG" height="300">
+<img src="public/img/game.PNG" height="350">
+<img src="public/img/win.PNG" height="350">
+
 ## Built With
 
 * [p5](https://p5js.org/) - The JavaScript library
